@@ -1,0 +1,5 @@
+https://github.com/github/gitignore.git -ignores files you dont think has errors or files you dont want to be tracked. 
+https://github.com/BurntSushi/ripgrep.git- searches for specific strings of letter or words and will ignore every file that is already ignored by .gitignore
+https://github.com/MunGell/awesome-for-beginners.git -has a list of beginner projects and tutorials for beginnners which other more advanced people can add to.
+https://github.com/Trinea/android-open-project.git - open source repo project thats an android development tool which I though was cool because it helps with developing android apps which I need for my current AHI project. I dont know if i can use this however.
+https://github.com/google/styleguide.git - a style guide for development with google which may be necessary because we are making an android app using the google api so I found it interesting. 
