@@ -6,9 +6,8 @@
 int main()
 {
     int age;
-    std::cout << "Input your birthday\n";
+    std::cout << "Input your Age: ";
     std::cin >> age;
-
     if (age < 15)
         std::cout << "Youre too young to be here!\n";
     else if (age < 30)
